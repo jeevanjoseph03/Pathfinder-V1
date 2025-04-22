@@ -3,7 +3,7 @@
  * 
  * Created by Team VYSE at TinkerHub TinyML Hackathon 2024
  * Team Members:
- * - Jeeva Joseph
+ * - Jeevan Joseph
  * - Muzammil Latheef Seedi
  * - Mizhab A S
  * - Muhammed Irfan Nazar
