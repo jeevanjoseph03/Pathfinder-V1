@@ -78,7 +78,7 @@ Steps to recreate the model:
 ## 🤝 Team VYSE
 
 This project was built by:
-- [Jeeva Joseph](https://github.com/jeevanjoseph03)
+- [Jeevan Joseph](https://github.com/jeevanjoseph03)
 - Muzammil Latheef Seedi
 - Mizhab A S
 - Muhammed Irfan Nazar
