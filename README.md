@@ -1,7 +1,5 @@
 # Pathfinder V1
 
-![Pathfinder V1 Prototype](docs/images/1735728053423.jpg)
-
 ## 🌟 Overview
 
 Pathfinder V1 is a TinyML-powered navigation assistant designed to empower visually impaired individuals to navigate their surroundings more confidently. This wearable/handheld device detects obstacles and recognizes objects in real-time, providing feedback through audio cues, vibration patterns, and buzzer signals.
