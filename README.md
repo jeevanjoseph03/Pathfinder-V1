@@ -1,6 +1,6 @@
 # Pathfinder V1
 
-![Pathfinder V1 Banner](docs/images/banner.png)
+![Pathfinder V1 Prototype](docs/images/1735728053423.jpg)
 
 ## 🌟 Overview
 
@@ -75,6 +75,12 @@ Steps to recreate the model:
 4. Deploy the model to Arduino format
 5. Integrate the model with the main code
 
+## 👀 Project Gallery
+
+![Pathfinder V1 Prototype](docs/images/1735728053423.jpg)
+
+Our prototype showcases the compact design of Pathfinder V1, utilizing the XIAO ESP32S3 as the main processing unit along with ultrasonic sensors for obstacle detection, and vibration motors and buzzer for providing feedback to the user.
+
 ## 🤝 Team VYSE
 
 This project was built by:
@@ -82,6 +88,11 @@ This project was built by:
 - Muzammil Latheef Seedi
 - Mizhab A S
 - Muhammed Irfan Nazar
+
+## ⏱️ Project Timeline
+
+- Hackathon Date: 24-hour TinyML Hackathon at TinkerSpace (TinkerHub 22nd December,2024)
+- Repository Created: 2025-04-22 10:48:07 UTC
 
 ## 📝 License
 
