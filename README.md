@@ -83,7 +83,7 @@ Our prototype showcases the compact design of Pathfinder V1, utilizing the XIAO 
 
 This project was built by:
 - [Jeevan Joseph](https://github.com/jeevanjoseph03)
-- Muzammil Latheef Seedi
+- [Muzammil Latheef Seedi](https://github.com/muzml)
 - [Mizhab A S](https://github.com/mizhab-as)
 - [Muhammed Irfan Nazar](https://github.com/Irfan-34)
 
