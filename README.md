@@ -1,4 +1,4 @@
-ko# Pathfinder V1
+# Pathfinder V1
 
 ## 🌟 Overview
 
@@ -99,4 +99,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgements
 
 Special thanks to TinkerHub for organizing the TinyML Hackathon and providing the platform for this project.
-.
