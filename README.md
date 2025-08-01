@@ -53,12 +53,12 @@ For detailed wiring diagram, see [hardware/schematic.md](hardware/schematic.md).
 
 ### Software Setup
 
-1. Install Arduino IDE (version 1.8.x or later)
-2. Add ESP32 board support to Arduino IDE
+1. Install Arduino IDE (version 1.8.x or later).
+2. Add ESP32 board support to Arduino IDE.
 3. Install required libraries:
    - [Edge Impulse Arduino library](https://docs.edgeimpulse.com/docs/deployment/arduino-library)
    - NewPing library for ultrasonic sensors
-4. Flash the main code to your XIAO ESP32S3
+4. Flash the main code to your XIAO ESP32S3.
 
 For detailed software instructions, see the [src/README.md](src/README.md).
 
